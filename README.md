@@ -2,10 +2,6 @@
 
 This repository implements a Prototypical Network for personalized censorship, allowing classification based on user-specific definitions of toxicity. With only a small number of examples per user, the model can adapt to varying definitions of offensive or sensitive content.
 
-[BERT](https://research.google/pubs/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/)
-
-[Jigsaw Toxicity dataset](https://huggingface.co/datasets/google/jigsaw_toxicity_pred)
-
 Embeddings are generated using a fine-tuned [BERT](https://research.google/pubs/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding/) model trained on the [Jigsaw Toxicity dataset](https://huggingface.co/datasets/google/jigsaw_toxicity_pred).
 
 ## Architecture
