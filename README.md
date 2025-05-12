@@ -42,4 +42,4 @@ Data loading, tokenization, and label balancing are handled in `jigsaw.py`
 There are two Jupyter notebooks provided,
 
 - `notebooks/project.ipynb` for fine-tuning BERT and training the projection head
-- `notebooks/project.ipynb` for easily testing individual queries
+- `notebooks/user_test.ipynb` for easily testing individual queries
